@@ -3,8 +3,6 @@
 ✅Hosted Link:- https://todo.jackjona.live/
 
 
-![alt text](:) <br />
-
 ✅ Todo App📚 <br />
     ✔️Full CRUD Functionality(Create, Read, Update & Delete) <br />
     ✔️Used React <br />
