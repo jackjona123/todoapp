@@ -1,5 +1,10 @@
 # ToDo Website
 
+## Deployment
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9026ddcc-29d3-47e4-ac18-fc28237d67ad/deploy-status)](https://app.netlify.com/sites/jacktodoapp/deploys)
+
+
 ✅Hosted Link:- https://todo.jackjona.live/
 
 
