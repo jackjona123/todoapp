@@ -1,5 +1,5 @@
 # ToDo App
 
-## For IOS & Android
+### For IOS & Android
 
 #### Built With React Native
